@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zenml-io/zenml-gitflow/commit/9d832d0286719223b58d6e45038e74c01481d5ac",
       "git:hexsha": "9d832d0286719223b58d6e45038e74c01481d5ac",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
